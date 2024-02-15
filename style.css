@@ -8,9 +8,10 @@
 
 body {
     background-color: 5A9AB8;
-
+    background-image: url(assets/flowerbackground.jpg);
     background-repeat: no-repeat;
     overflow: hidden;
+    background-size: cover;
 }
 /* the main card container */
 
@@ -24,13 +25,19 @@ body {
   border-radius: 30px;
 }
 
+.header{
+  margin-top:90px;
+}
+.name{
+  position: relative; top: 35px;
+  position: relative; left: 45px;
+}
 h1{
   margin-bottom: 0px;
   font-family: 'Kaushan Script', cursive;
   font-weight: 600;
   text-align: center;
   font-size: 45px;
-  position: relative; top: 20px ;
   color: #5A9AB8;
   
 }
@@ -41,8 +48,8 @@ h2{
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 200;
   text-align: center;
-  position: relative; 
-  top: 40px;
+  position: relative; top: 40px;
+  position: relative; left: 10px;
   color: #5A9AB8;
 } 
 
@@ -51,9 +58,9 @@ h3{
   padding-top: 0px;
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 400;
-  text-align: center;
-  position: relative; 
-  top: 100px;
+  text-align: left;
+  position: relative; top: 80px;
+  position: relative; left: 140px;
 }
 /* How links are styled on page load and also after a link has been visited */
 a:link, a:visited {
