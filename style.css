@@ -6,7 +6,7 @@
     }
 
 body{
-  background-color: #c6f4e5bb;
+  background-color: #eaf1cebb;
 }
 .cards:before {
   content: ' ';
@@ -76,6 +76,7 @@ h3{
   text-align: left;
   position: relative; top: 80px;
   position: relative; left: 140px;
+  color: #5A9AB8;
 }
 .sv1{
   position: relative; left: -140px;
@@ -90,7 +91,7 @@ a:link, a:visited {
 }
 /* how a link is styled when you hover over it */
 a:hover {
-  color: rgb(0, 151, 206);
+  color: #ED89A5;
 }
 
 /* specific styling to scale elements down for mobile */
