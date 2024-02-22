@@ -1,2 +1,3 @@
 ## Documentation for Business Card
 
+This is my first website that I have made and the first project I have ever done with code. This was done for a project for my web typography class at Umass Dartmouth sophmore year. While makeing this website I found it pretty difficult at first but as it went on I started to understand it better but it is still not easy. I made most of my mock ups in Illustrator but I also used Figma because those were to two programs that I was the most comfortable using.
